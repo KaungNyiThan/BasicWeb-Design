@@ -1,0 +1,7 @@
+background-image: linear-gradient(
+    45deg,
+    #fdd044 0%,
+    #fed350 53%,
+    #a2f1de 20%,
+    #74d8bb 100%
+  );
